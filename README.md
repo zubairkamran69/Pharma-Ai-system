@@ -3,15 +3,6 @@
 <p align="center">
   <strong>Connecting Doctors, Pharmaceutical Companies, and Sales Representatives Through AI</strong>
 </p>
-
-<p align="center">
-  <a href="https://pharma-ai-sales-system-frontend.vercel.app/">Live Demo</a> •
-  <a href="https://pharma-ai-sales-system.onrender.com/docs">API Documentation</a> •
-  <a href="https://github.com/zubairkamran69/Pharma-Ai-system">GitHub Repository</a>
-</p>
-
----
-
 ## Overview
 
 **PharmaAI** is an AI-powered pharmaceutical engagement platform designed to improve how doctors discover pharmaceutical products, how companies manage their sales operations, and how doctors connect with sales representatives.
