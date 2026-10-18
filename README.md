@@ -4,7 +4,7 @@
   <strong>Connecting Doctors, Pharmaceutical Companies, and Sales Representatives Through AI</strong>
 </p>
 
-...
+
 ## Overview
 
 **PharmaAI** is an AI-powered pharmaceutical engagement platform designed to improve how doctors discover pharmaceutical products, how companies manage their sales operations, and how doctors connect with sales representatives.
