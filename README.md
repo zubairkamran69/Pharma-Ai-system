@@ -10,13 +10,6 @@
   <a href="https://github.com/zubairkamran69/Pharma-Ai-system">GitHub Repository</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Database-Neon_PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=black" alt="Neon PostgreSQL" />
-  <img src="https://img.shields.io/badge/Frontend-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/AI-Agentic_AI-7C3AED?style=for-the-badge" alt="Agentic AI" />
-</p>
-
 ---
 
 ## Overview
