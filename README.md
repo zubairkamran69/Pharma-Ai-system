@@ -223,6 +223,50 @@ The database stores application records and document metadata, including extract
 
 The application uses its configured PostgreSQL connection through `DATABASE_URL`. Database connectivity and schema initialization should be confirmed in the backend logs and health endpoint after deployment.
 
+## Team Members & Responsibilities
+
+PharmaAI is developed by a collaborative team combining full-stack engineering, AI/ML development, frontend design, research, and quality assurance.
+
+### Muhammad Zubair Kamran
+**Team Lead | Full-Stack AI Developer | AI Engineer**
+
+- Leads team coordination and project development.
+- Contributes to frontend and backend engineering.
+- Works on AI-powered features and intelligent automation.
+- Oversees project documentation and technical presentation.
+- Helps align the technical implementation with the overall project vision.
+
+### Eman Fatima Farukh
+**AI/ML Engineer | Backend Engineer**
+
+- Works on AI and machine learning components.
+- Contributes to backend development and application logic.
+- Supports the integration of AI capabilities into the platform.
+
+### Tehreem Fatima
+**Frontend Developer | UI/UX Designer | Researcher | QA Engineer**
+
+- Develops and improves the frontend user experience.
+- Contributes to UI/UX design and interface consistency.
+- Conducts research to support project requirements and design decisions.
+- Supports quality assurance, testing, and identification of usability issues.
+
+---
+
+## Project Leadership
+
+**Team Lead:** Muhammad Zubair Kamran
+
+Our team combines software engineering, artificial intelligence, user-centered design, research, and quality assurance to build an integrated pharmaceutical engagement platform.
+
+## Application Screenshots
+
+### Login Page
+![PharmaAI Login](login.png)
+
+### Create Account
+![PharmaAI Registration](account.png)
+
 ## Run Locally on Windows
 
 ### Prerequisites
