@@ -273,15 +273,24 @@ Our team combines software engineering, artificial intelligence, user-centered d
   <img src="screenshots/account.png.jpeg" alt="PharmaAI Create Account Page" width="100%" />
 </p>
 
-credentials to login:
-As a doctor :-
-Email :- zubairkamran.dev1@gmail.com Password : 123456
-As a sale representative:-
-Email :- zubairkamran.dev1111@gmail.com
-Password: 123456
-As a pharma :-
-Email :-liftoplus@gmail.com
-Password : 123456
+## Demo Login Credentials
+
+Use the following accounts to explore the different PharmaAI workspaces.
+
+| Role | Email | Password |
+|---|---|---|
+| Doctor | `zubairkamran.dev1@gmail.com` | `123456` |
+| Sales Representative | `zubairkamran.dev1111@gmail.com` | `123456` |
+| Pharmaceutical Company | `-liftoplus@gmail.com` | `123456` |
+
+### How to Log In
+
+1. Open the [PharmaAI Live Demo](https://pharma-ai-sales-system-frontend.vercel.app/).
+2. Select the appropriate role from the **Sign in as** dropdown.
+3. Enter the corresponding email and password from the table.
+4. Click **Enter workspace** to access the selected workspace.
+
+**Important:** These are shared demonstration credentials. Use them only for the demo environment. Do not use these passwords for personal or production accounts. If the accounts are unavailable, verify that they exist in the currently deployed database.
 
 ## Run Locally on Windows
 
