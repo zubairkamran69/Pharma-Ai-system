@@ -273,6 +273,16 @@ Our team combines software engineering, artificial intelligence, user-centered d
   <img src="screenshots/account.png.jpeg" alt="PharmaAI Create Account Page" width="100%" />
 </p>
 
+credentials to login:
+As a doctor :-
+Email :- zubairkamran.dev1@gmail.com Password : 123456
+As a sale representative:-
+Email :- zubairkamran.dev1111@gmail.com
+Password: 123456
+As a pharma :-
+Email :-liftoplus@gmail.com
+Password : 123456
+
 ## Run Locally on Windows
 
 ### Prerequisites
