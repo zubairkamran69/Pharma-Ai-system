@@ -261,11 +261,17 @@ Our team combines software engineering, artificial intelligence, user-centered d
 
 ## Application Screenshots
 
-### Login Page
-![PharmaAI Login](login.png)
+### 1. Login Page
 
-### Create Account
-![PharmaAI Registration](account.png)
+<p align="center">
+  <img src="screenshots/Login.png.png" alt="PharmaAI Login Page" width="100%" />
+</p>
+
+### 2. Create Account
+
+<p align="center">
+  <img src="screenshots/account.png.jpeg" alt="PharmaAI Create Account Page" width="100%" />
+</p>
 
 ## Run Locally on Windows
 
